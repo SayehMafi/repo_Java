@@ -1,2 +1,2 @@
 # Chapter one Java 
-each class is one exercise from chapter one of Java book by Daniel Liang!
+Each Java class is one exercise from chapter one of Java book by Daniel Liang!
